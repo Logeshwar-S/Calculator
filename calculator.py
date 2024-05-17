@@ -1,4 +1,4 @@
-import time
+
 import math
 
 from pathlib import Path
@@ -26,6 +26,7 @@ window.iconbitmap(r"F:\Projects\Calculator\assets\icon.ico")
 
 
 # Function to handle button clicks for numbers
+
 def on_number_click(number):
     entry.insert("end", str(number))
 
