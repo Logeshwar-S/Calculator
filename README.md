@@ -9,6 +9,10 @@ To use the calculator, follow these steps:
 2. Navigate to the project directory:  ```cd Calculator```
 3. Run the calculator:  ```python calculator.py```
 
+## Demo
+
+https://github.com/Logeshwar-S/Calculator/assets/83489133/7dc89eda-b36c-498e-9e70-ee0beb7b7e46
+
 ## Credits
 
 The GUI layout for this calculator was created using the Tkinter Designer made by ParthJadhav. Tkinter Designer is a visual layout tool for Tkinter applications, simplifying the process of designing user interfaces for Python applications.
